@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eexetahgh.aguakate.org/sitemap.xml
